@@ -22,7 +22,15 @@
 ## Installation | 설치 방법
 
 ```bash
+# Clone the repository / 레포지토리를 클론
 git clone https://github.com/Jeayeong-Hong/what-dev-are-you.git
 cd what-dev-are-you
+# Install dependencies / 의존성 설치
 npm install
+# Start the development server / 개발 서버 실행
 npm run dev
+```
+## Deployment / 배포
+This project is deployed via Vercel. 해당 프로젝트는 Vercel을 통해 배포되었습니다.
+
+🔗 Live Site: https://what-dev-are-you-tau.vercel.app/
